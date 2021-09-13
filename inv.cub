@@ -1,0 +1,16 @@
+R 1000 1000
+
+F 54,34,251
+C 255,255,255
+
+NO ./textures/elon.xpm
+SO ./textures/face.xpm
+WE ./textures/la.xpm
+EA ./textures/clint2.xpm
+S ./textures/beyonce.xpm
+
+11111111
+10100001
+10010N01
+10001001
+11111111
